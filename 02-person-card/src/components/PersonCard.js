@@ -26,7 +26,9 @@ class PersonCard extends Component{
             <p>hair color: {hairColor}</p>
 
             <button className='btn btn-primary'onClick={addOneYear}>Happy Birthday {firstName}</button>
+            
         </div>
+        // just playing with git
     }
 
 }
