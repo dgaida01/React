@@ -28,8 +28,7 @@ class PersonCard extends Component{
             <button className='btn btn-primary'onClick={addOneYear}>Happy Birthday {firstName}</button>
             
         </div>
-        // just playin
-        // more here
+        
     }
 
 }
